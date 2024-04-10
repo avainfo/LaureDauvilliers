@@ -10,9 +10,9 @@ export default function Header() {
                 <a href="/App">Contact</a>
             </div>
             <div className="title">
-                    <h2>Laure</h2>
-                    <h1>DAUVILLIERS</h1>
-                    <h3>Sophrologue</h3>
+                <h2>Laure</h2>
+                <h1>DAUVILLIERS</h1>
+                <h3>Sophrologue</h3>
             </div>
         </div>
     );
