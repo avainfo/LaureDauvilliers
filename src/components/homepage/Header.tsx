@@ -1,4 +1,4 @@
-import "../../components/homepage/header.scss"
+import "../../styles/components/header.scss"
 
 export default function Header() {
     return (
